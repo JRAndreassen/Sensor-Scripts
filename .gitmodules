@@ -1,0 +1,9 @@
+[submodule "PRTG-Backup"]
+	path = PRTG-Backup
+	url = https://gitlab.com/PRTG/Sensor-Scripts/PRTG-Backup.git
+[submodule "SANMeter"]
+	path = SANMeter
+	url = https://gitlab.com/PRTG/Sensor-Scripts/SANMeter.git
+[submodule "ADO-SQL-Scripts"]
+	path = ADO-SQL-Scripts
+	url = https://gitlab.com/PRTG/Sensor-Scripts/ADO-SQL-Scripts.git
