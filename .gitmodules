@@ -7,3 +7,6 @@
 [submodule "ADO-SQL-Scripts"]
 	path = ADO-SQL-Scripts
 	url = https://gitlab.com/PRTG/Sensor-Scripts/ADO-SQL-Scripts.git
+[submodule "eHealth-NEXTGEN-Connect"]
+	path = eHealth-NEXTGEN-Connect
+	url = git@gitlab.com:PRTG/Sensor-Scripts/eHealth-NEXTGEN-Connect.git
